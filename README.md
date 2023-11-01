@@ -1,1 +1,2 @@
 # mytravelplans
+git init
